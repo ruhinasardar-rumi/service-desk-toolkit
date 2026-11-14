@@ -1,0 +1,4 @@
+FirstName,LastName,Department,Title,Manager,Groups,TicketNumber
+Alex,Morgan,Finance,Fund Accountant,sam.lee,Finance-Users;VPN-Users,RITM0010001
+Priya,Shah,IT,Service Desk Analyst,sam.lee,IT-Staff;VPN-Users,RITM0010002
+Daniel,Okafor,Operations,Operations Analyst,sam.lee,Operations-Users;VPN-Users,RITM0010003
